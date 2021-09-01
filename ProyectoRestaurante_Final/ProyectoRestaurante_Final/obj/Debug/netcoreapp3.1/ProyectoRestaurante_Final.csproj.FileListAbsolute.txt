@@ -1,0 +1,13 @@
+C:\Users\Usuario\source\repos\ProyectoRestaurante_Final\ProyectoRestaurante_Final\bin\Debug\netcoreapp3.1\ProyectoRestaurante_Final.exe
+C:\Users\Usuario\source\repos\ProyectoRestaurante_Final\ProyectoRestaurante_Final\bin\Debug\netcoreapp3.1\ProyectoRestaurante_Final.deps.json
+C:\Users\Usuario\source\repos\ProyectoRestaurante_Final\ProyectoRestaurante_Final\bin\Debug\netcoreapp3.1\ProyectoRestaurante_Final.runtimeconfig.json
+C:\Users\Usuario\source\repos\ProyectoRestaurante_Final\ProyectoRestaurante_Final\bin\Debug\netcoreapp3.1\ProyectoRestaurante_Final.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\ProyectoRestaurante_Final\ProyectoRestaurante_Final\bin\Debug\netcoreapp3.1\ProyectoRestaurante_Final.dll
+C:\Users\Usuario\source\repos\ProyectoRestaurante_Final\ProyectoRestaurante_Final\bin\Debug\netcoreapp3.1\ProyectoRestaurante_Final.pdb
+C:\Users\Usuario\source\repos\ProyectoRestaurante_Final\ProyectoRestaurante_Final\obj\Debug\netcoreapp3.1\ProyectoRestaurante_Final.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\ProyectoRestaurante_Final\ProyectoRestaurante_Final\obj\Debug\netcoreapp3.1\ProyectoRestaurante_Final.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\ProyectoRestaurante_Final\ProyectoRestaurante_Final\obj\Debug\netcoreapp3.1\ProyectoRestaurante_Final.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\ProyectoRestaurante_Final\ProyectoRestaurante_Final\obj\Debug\netcoreapp3.1\ProyectoRestaurante_Final.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\ProyectoRestaurante_Final\ProyectoRestaurante_Final\obj\Debug\netcoreapp3.1\ProyectoRestaurante_Final.dll
+C:\Users\Usuario\source\repos\ProyectoRestaurante_Final\ProyectoRestaurante_Final\obj\Debug\netcoreapp3.1\ProyectoRestaurante_Final.pdb
+C:\Users\Usuario\source\repos\ProyectoRestaurante_Final\ProyectoRestaurante_Final\obj\Debug\netcoreapp3.1\ProyectoRestaurante_Final.genruntimeconfig.cache
